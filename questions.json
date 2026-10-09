@@ -1,0 +1,32 @@
+[
+{
+"question": "1. Python dasturlash tilida ekranga matn chiqarish uchun qaysi funksiya ishlatiladi?",
+"options": {
+"A": "input()",
+"B": "print()",
+"C": "write()",
+"D": "show()"
+},
+"answer": "B"
+},
+{
+"question": "2. 15 + 27 nechaga teng?",
+"options": {
+"A": "32",
+"B": "40",
+"C": "42",
+"D": "45"
+},
+"answer": "C"
+},
+{
+"question": "3. Python'da foydalanuvchidan ma'lumot olish uchun qaysi funksiya ishlatiladi?",
+"options": {
+"A": "input()",
+"B": "print()",
+"C": "int()",
+"D": "type()"
+},
+"answer": "A"
+}
+]
