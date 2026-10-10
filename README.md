@@ -60,3 +60,9 @@ It then provides feedback based on the final percentage and stores the result wi
 ## Purpose
 
 This project was created to practise Python functions, loops, conditional statements, file handling, JSON parsing, CSV writing, input validation, and automated testing.
+## 🎥 Project Demo
+
+Watch the ExamPrep final project presentation on YouTube:
+
+[**ExamPrep — CS50P Final Project | Bobur Komiljonov**](https://youtu.be/ia7aKSJOGE4)
+
